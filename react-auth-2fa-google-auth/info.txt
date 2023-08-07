@@ -1,0 +1,11 @@
+axios (axios types)
+react router dom (types also)
+
+npm install @reduxjs/toolkit
+npm install react-redux
+npm i -D @types/react-redux
+
+npm i qrcode
+npm i -D @types/qrcode
+
+npm install @react-oauth/google@latest
